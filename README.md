@@ -3,7 +3,6 @@
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/img-yohann.png" alt="background" height="300" width="100%" style="margin-right: 20px"/>
 </p>
 <h2 align="center">Mais qui suis-je ?</h2>
-&nbsp;
 
 <h3>
   <strong>Hello je suis Yohann &#128515;</strong>, Passionné par le développement web,
