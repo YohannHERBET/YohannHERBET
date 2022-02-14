@@ -3,6 +3,9 @@
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/img-yohann.png" alt="background" height="300" width="100%" style="margin-right: 20px"/>
 </p>
 <h1 align="center">Technologies utilisées</h1>
+
+&nbsp;
+
 <p align="center">
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/logo-react.png" alt="react" height="40" width="40" style="margin-right: 20px"/>
   <strong>React &nbsp;</strong>
