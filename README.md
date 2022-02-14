@@ -27,7 +27,6 @@
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/mysql.png" alt="mysql" height="40" width="40" style="margin-right: 20px"/>
  <strong>Mysql &nbsp;</strong>
 </p>
-&nbsp;
 
 <h2 align="center">Pour échanger avec moi</h2>
 <p align="center"><a href="https://github.com/YohannHERBET" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> &nbsp;</a> <a href="https://twitter.com/YohannHERBET" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> &nbsp;</a> <a href="https://www.linkedin.com/in/yohannherbet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp;</a>
