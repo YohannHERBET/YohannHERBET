@@ -5,5 +5,5 @@
 <h1 align="center">Technologies utilisées</h1>
 <p>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/logo-react.png" alt="react" height="30" width="30"/>
-  React
+  <p>React</p>
 </p>
