@@ -4,8 +4,8 @@
 </p>
 <h1 align="center">Technologies utilisées</h1>
 <p align="center">
-  <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/logo-react.png" alt="react" height="40" width="40" style="margin-right: 200px"/>
-  React
+  <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/logo-react.png" alt="react" height="40" width="40" style="margin-right: 20px"/>
+  <p>React</p>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/javascript.png" alt="javascript" height="40" width="40" style="margin-right: 20px"/>
   Js
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/css.png" alt="css" height="40" width="40" style="margin-right: 20px"/>
