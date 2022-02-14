@@ -10,7 +10,7 @@
   j'aime découvrir de nouvelles choses et perdre 10 % de capacités mentales après chaque débug &#128523;, toujours en recherche d'amélioration avec un esprit perfectionniste et bienveillant, je m'intéresse à tout ce qui touche de près ou de loin au web &#129299;
 </p>
 
-<h2 align="center">Technologies utilisées</h2>
+<h1 align="center">Technologies utilisées</h1>
 <p align="center">
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/logo-react.png" alt="react" height="40" width="40" style="margin-right: 20px"/>
   <strong>React &nbsp;</strong>
