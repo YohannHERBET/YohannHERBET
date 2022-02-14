@@ -5,17 +5,17 @@
 <h1 align="center">Technologies utilisées</h1>
 <p align="center">
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/logo-react.png" alt="react" height="40" width="40" style="margin-right: 20px"/>
-  <strong style="margin-right: 40px">  React</strong>
+  <strong style="margin-right: 40px"> &nbsp;  &nbsp; React</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/javascript.png" alt="javascript" height="40" width="40" style="margin-right: 20px"/>
-  <strong style="margin-right: 40px">  Js</strong>
+  <strong style="margin-right: 40px"> &nbsp;  &nbsp; Js</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/css.png" alt="css" height="40" width="40" style="margin-right: 20px"/>
-  <strong style="margin-right: 40px">  Css</strong>
+  <strong style="margin-right: 40px"> &nbsp; Css</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/html.png" alt="html" height="40" width="40" style="margin-right: 20px"/>
-  <strong style="margin-right: 40px">  Html</strong>
+  <strong style="margin-right: 40px"> &nbsp;  &nbsp; Html</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/git.png" alt="git" height="40" width="40" style="margin-right: 20px"/>
-  <strong style="margin-right: 40px">  Git</strong>
+  <strong style="margin-right: 40px"> &nbsp;  &nbsp; Git</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/php.png" alt="php" height="40" width="40" style="margin-right: 20px"/>
-  <strong style="margin-right: 40px">  Php</strong>
+  <strong style="margin-right: 40px"> &nbsp;  &nbsp; Php</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/mysql.png" alt="mysql" height="40" width="40" style="margin-right: 20px"/>
- <strong style="margin-right: 40px">  Mysql</strong>
+ <strong style="margin-right: 40px"> &nbsp;  &nbsp; Mysql</strong>
 </p>
