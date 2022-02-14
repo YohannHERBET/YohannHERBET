@@ -2,6 +2,7 @@
 <p>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/img-yohann.png" alt="background" height="300" width="100%" style="margin-right: 20px"/>
 </p>
+<h3 align="center">Mais qui suis-je ?</h3>
 <p>
   <strong>Hello je suis Yohann &#128515;</strong>, Passionné par le développement web, j'aime découvrir de nouvelles choses et perdre 10 % de capacités mental après chaque débug &#128523;, toujours en recherche d'amélioration avec un esprit perfectionniste et bienveillant, je m'intéresse à tout ce qui touche de pret ou de loin au web &#129299;
 </p>
