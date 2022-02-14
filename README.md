@@ -3,6 +3,8 @@
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/img-yohann.png" alt="background" height="300" width="100%" style="margin-right: 20px"/>
 </p>
 <h2 align="center">Mais qui suis-je ?</h2>
+&nbsp;
+
 <p>
   <strong>Hello je suis Yohann &#128515;</strong>, Passionné par le développement web,
   j'aime découvrir de nouvelles choses et perdre 10 % de capacités mentales après chaque débug &#128523;, toujours en recherche d'amélioration avec un esprit perfectionniste et bienveillant, je m'intéresse à tout ce qui touche de près ou de loin au web &#129299;
@@ -25,6 +27,7 @@
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/mysql.png" alt="mysql" height="40" width="40" style="margin-right: 20px"/>
  <strong>Mysql &nbsp;</strong>
 </p>
+&nbsp;
 
 <h2 align="center">Pour échanger avec moi</h2>
 <p align="center"><a href="https://github.com/YohannHERBET" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> &nbsp;</a> <a href="https://twitter.com/YohannHERBET" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> &nbsp;</a> <a href="https://www.linkedin.com/in/yohannherbet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp;</a>
