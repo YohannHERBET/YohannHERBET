@@ -7,15 +7,15 @@
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/logo-react.png" alt="react" height="40" width="40" style="margin-right: 20px"/>
   <strong>React</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/javascript.png" alt="javascript" height="40" width="40" style="margin-right: 20px"/>
-  Js
+  <strong>Js</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/css.png" alt="css" height="40" width="40" style="margin-right: 20px"/>
-  Css
+  <strong>Css</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/html.png" alt="html" height="40" width="40" style="margin-right: 20px"/>
-  Html
+  <strong>Html</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/git.png" alt="git" height="40" width="40" style="margin-right: 20px"/>
-  Git
+  <strong>Git</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/php.png" alt="php" height="40" width="40" style="margin-right: 20px"/>
-  Php
+  <strong>Php</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/mysql.png" alt="mysql" height="40" width="40" style="margin-right: 20px"/>
-  Mysql
+ <strong> Mysql</strong>
 </p>
