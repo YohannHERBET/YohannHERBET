@@ -2,10 +2,16 @@
 <p>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/img-yohann.png" alt="background" height="300" width="100%" style="margin-right: 20px"/>
 </p>
+<p>
+  <strong>Hello je suis Yohann</strong>, Passionné par le développement web, j'aime découvrir de nouvelles choses et perdre 10 % de capacités mental après chaque débug &#128523;, toujours en recherche d'amélioration avec un esprit perfectionniste et bienveillant, je m'intéresse à tout ce qui touche de pret ou de loin au web &#129299;
+</p>
+
+&nbsp;
+
 <h1 align="center">Technologies utilisées</h1>
 <p align="center">
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/logo-react.png" alt="react" height="40" width="40" style="margin-right: 20px"/>
-  <span style="color:blue"><strong>React &nbsp;</strong></span>
+  <strong>React &nbsp;</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/javascript.png" alt="javascript" height="40" width="40" style="margin-right: 20px"/>
   <strong>Js &nbsp;</strong>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/css.png" alt="css" height="40" width="40" style="margin-right: 20px"/>
