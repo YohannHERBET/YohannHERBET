@@ -2,14 +2,14 @@
 <p>
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/img-yohann.png" alt="background" height="350" width="100%" style="margin-right: 20px"/>
 </p>
-<h2 align="center">Mais qui suis-je ?</h2>
+<h2 align="center">but who am I?</h2>
 
 <h3>
-  <strong>Hello je suis Yohann &#128515;</strong>, Passionné par le développement web,
-  j'aime découvrir de nouvelles choses et perdre 10 % de capacités mentales après chaque débug &#128523;, toujours en recherche d'amélioration avec un esprit perfectionniste et bienveillant, je m'intéresse à tout ce qui touche de près ou de loin au web &#129299;
+  <strong>Hello i'm Yohann &#128515;</strong>, Passionate about web development,
+  I like to discover new things and lose 10% of mental capacities after each debug &#128523;, always looking for improvement with a perfectionist and benevolent spirit, I am interested in everything that is directly or indirectly related to the web &#129299;
 </h3>
 
-<h1 align="center">Technologies utilisées</h1>
+<h1 align="center">technologies used</h1>
 <p align="center">
   <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/logo-react.png" alt="react" height="40" width="40" style="margin-right: 20px"/>
   <strong>React &nbsp;</strong>
@@ -27,7 +27,7 @@
  <strong>Mysql &nbsp;</strong>
 </p>
 
-<h2 align="center">Pour échanger avec moi</h2>
+<h2 align="center">exchange with me</h2>
 <p align="center"><a href="https://github.com/YohannHERBET" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> &nbsp;</a> <a href="https://twitter.com/YohannHERBET" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> &nbsp;</a> <a href="https://www.linkedin.com/in/yohannherbet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp;</a>
 </p>
 
