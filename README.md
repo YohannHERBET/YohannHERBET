@@ -1,6 +1,6 @@
 
 <p>
-  <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/img-yohann.png" alt="background" height="350" width="100%" style="margin-right: 20px"/>
+  <img src="https://github.com/YohannHERBET/YOHANNHERBET/blob/main/img/img-profil-github.png" alt="background" height="350" width="100%" style="margin-right: 20px"/>
 </p>
 <h2 align="center">but who am I?</h2>
 
