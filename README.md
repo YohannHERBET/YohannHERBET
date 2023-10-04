@@ -1,1 +1,1 @@
-<img width="1000" height="600" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img width="100%" height="600" src="/img-profil-github.png">
